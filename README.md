@@ -1,2 +1,2 @@
-# c-
+# c
 basic learning of c
